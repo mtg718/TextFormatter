@@ -1,4 +1,4 @@
-Deployed Link--> [  https://659924dfa11f67b50c294541--poetic-parfait-4dc345.netlify.app/](https://formatext.netlify.app/)
+Deployed Link-->(https://formatext.netlify.app/)
 
 ![Netflix   Chill - Google Chrome 12-08-2023 23_34_50](https://github.com/mtg718/TextFormatter/assets/135738292/81f01848-c2bb-4672-bb94-8878ed4e5e9c)
 ![Netflix   Chill - Google Chrome 12-08-2023 23_35_49](https://github.com/mtg718/TextFormatter/assets/135738292/13603fea-9c1d-46dd-a360-b7460b5e5469)
